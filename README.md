@@ -1,5 +1,5 @@
 import json
-import urllib.request
+import urllib.reques
 import urllib.parse
 
 def get_weather(city):
